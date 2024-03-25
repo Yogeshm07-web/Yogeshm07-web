@@ -8,7 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid skydiver and have completed over 50 jumps in various locations around the world.
 
-<!---
-Yogeshm07-web/Yogeshm07-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects:
+- **EconoCuisine:**
+  - A website project aimed at revolutionizing meal planning by providing a platform for strategically managing culinary expenses. This intuitive solution allows everyone to enjoy delicious meals while adhering to their budget.
+  - **Project Link:** [EconoCuisine](https://econocuisine-ceeba081e957.herokuapp.com/)
+  - **GitHub Link:** [EconoCuisine sur GitHub](GitHub Link)
+
